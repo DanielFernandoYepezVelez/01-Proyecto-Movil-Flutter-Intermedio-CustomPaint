@@ -38,9 +38,9 @@ class HeaderDiagonal extends StatelessWidget {
         // painter: _HeaderTrianguloPainter(),
         // painter: _HeaderPicoPainter(),
         // painter: _HeaderCurvoPainter(),
-        // painter: _HeaderWavePainter(),
+        painter: _HeaderWavePainter(),
         // painter: _HeaderWaveDownPainter(),
-        painter: _HeaderWaveGradientPainter(),
+        // painter: _HeaderWaveGradientPainter(),
       ),
     );
   }
